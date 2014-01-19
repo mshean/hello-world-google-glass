@@ -5,5 +5,11 @@
     <string name="show_helloworld_voice_trigger">Hello World</string>
     <string name="read_aloud">Say Hi</string>
     <string name="stop">stop app</string>
+    <string name="right">swiped right</string>
+    <string name="left">swiped left</string>
+    <string name="up">swiped up</string>
+    <string name="tap_twice">two fingers detected</string>
+    <string name="tap_thrice">three fingers detected</string>
+    <string name="gesture_test">Gesture Test</string>
 
 </resources>

@@ -20,6 +20,10 @@
         android:title="@string/read_aloud"
         android:icon="@drawable/ic_launcher"/>
     <item
+        android:id="@+id/gesture_test"
+        android:title="@string/gesture_test"
+        android:icon="@drawable/ic_launcher"/>
+    <item
         android:id="@+id/stop"
         android:title="@string/stop"
         android:icon="@drawable/ic_launcher"/>
