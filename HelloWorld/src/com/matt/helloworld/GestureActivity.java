@@ -1,7 +1,8 @@
-package com.isabel.helloworld;
+package com.matt.helloworld;
 
 import com.google.android.glass.touchpad.Gesture;
 import com.google.android.glass.touchpad.GestureDetector;
+import com.isabel.helloworld.R;
 
 import android.app.Activity;
 import android.content.Context;

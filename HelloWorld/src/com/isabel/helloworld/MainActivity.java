@@ -1,5 +1,7 @@
 package com.isabel.helloworld;
 
+import com.matt.helloworld.GestureActivity;
+
 import android.app.Activity;
 import android.content.ComponentName;
 import android.content.Intent;
