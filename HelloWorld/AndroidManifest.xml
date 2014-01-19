@@ -15,7 +15,7 @@
             android:name="com.google.android.glass"
             android:required="true" />
         <activity 
-            android:name="com.isabel.helloworld.GestureActivity" 
+            android:name="com.matt.helloworld.GestureActivity" 
 			android:theme="@style/MenuTheme" />
         <activity 
             android:name="com.isabel.helloworld.MainActivity" 

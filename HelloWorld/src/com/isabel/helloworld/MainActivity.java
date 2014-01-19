@@ -81,13 +81,12 @@ public class MainActivity extends Activity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.read_aloud:
-            	Intent gestureIntent = new Intent(this, GestureActivity.class);
-            	startActivityForResult(gestureIntent,100);
+            	mService.sayHiLoudly();
             	finish();
                 return true;
             case R.id.gesture_test:
-            	Intent gestureIntent2 = new Intent(this, GestureActivity.class);
-            	startActivityForResult(gestureIntent2,100);
+            	Intent gestureIntent = new Intent(this, GestureActivity.class);
+            	startActivityForResult(gestureIntent,100);
             	finish();
                 return true;
             case R.id.stop:
